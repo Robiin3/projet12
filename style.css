@@ -1,0 +1,146 @@
+/******* GENERAL *******/
+/* spacing on all sections */
+#about,
+#skills,
+#portfolio,
+#contact {
+    margin-top: 4rem;
+    padding-top: 4rem;
+}
+#about h2,
+#skills h2,
+#portfolio h2,
+#contact h2 {
+    margin-bottom: 3rem;
+}
+#contact {
+    padding-bottom: 4rem;
+}
+
+/* display background dark color on navbar scroll */
+.navbarScroll.navbarDark {
+    background-color: #03627a;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #03627a !important; /* Force the custom color to override Bootstrap's default */
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #6c6a70 !important; /* Force the hover color */
+}
+
+.navbarScroll.navbarDark .navbar-nav .nav-link {
+    color: #ffffff !important; /* Change navbar link color to white on scroll */
+}
+
+.navbarScroll.navbarDark .navbar-nav .nav-link:hover {
+    color: #b6dafd !important; /* Slightly lighter white on hover */
+}
+
+/* hero background image */
+.bgimage {
+    height: 100vh;
+    background: url("images/10136775_17973908.jpg");
+    background-size: cover;
+    position: relative;
+}
+
+/* Ensure the body and html elements have no margin or padding */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%; /* Ensure they take the full height */
+}
+
+/* text css above hero image*/
+.hero_title1 {
+    font-family: 'Ephesis';
+    font-size: 4.5rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 1rem; /* Add spacing below hero_title1 */
+}
+.hero_title2 {
+    font-family: 'fACULTY';
+    font-size: 2.5rem;
+    font-weight: 300;
+    color: #03627a;
+    text-align: center;
+    margin-bottom: 1.5rem; /* Add spacing below hero_title2 */
+}
+.hero_desc {
+    font-size: 2rem;
+    margin-top: 1rem; /* Optional: Add spacing above hero_desc */
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #333;
+    padding-bottom: 150px;
+}
+
+/* about */
+.imageAboutPage {
+    width: 100%;
+}
+
+.text-center {
+color: rgb(8, 135, 173);
+}
+
+.imageAboutPage {
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+/* skills */
+.skillsText.card {
+    height: 350px;
+    cursor: pointer;
+}
+.skillsText img {
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+}
+#skills p {
+    text-align: center;
+}
+.skillsIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+.card-title {
+    text-align: center;
+}
+.card:hover .skillsIcon {
+    color: #008000;
+}
+.skillsText:hover {
+    border: 1px solid #008000;
+}
+
+/* portfolio */
+#portfolio p {
+    text-align: center;
+}
+
+/* contact */
+.contactColumn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contactColumn i {
+    color: #03627a;
+}
+
+
+
+/* footer */
+
