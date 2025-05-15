@@ -18,13 +18,13 @@
         "alt": "Image représentant la gestion de projet"
     },
         {
-        "image": "cypress.png",
+        "image": "cypress.svg",
         "title": "Cypress",
         "text": "Automatisation des tests et analyse des résultats",
         "alt": "Image représentant Cypress"
     },
         {
-        "image": "jira.png",
+        "image": "jira.svg",
         "title": "Jira",
         "text": "Création de tickets, catégorisation, priorisation, et suivi des bugs",
         "alt": "Image représentant Jira"
@@ -42,7 +42,7 @@
         "alt": "Image représentant JavaScript"
     },
     {
-        "image": "react.jpg",
+        "image": "react.svg",
         "title": "React",
         "text": "Création d’applications React, création de composants et manipulation de leur état",
         "alt": "Image représentant React"
