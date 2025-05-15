@@ -51,7 +51,7 @@
         "image": "image3.png",
         "title": "Kasa",
         "text": "Implémentation du front-end d’une application de location de logement. <br> Création de composants dynamiques avec <b>React</b>. Configuration de la navigation avec <b>React Router</b>. <br> Gestion des états avec <b>Hooks</b>.",
-        "link": "livrables/Miniature Kasa.png",
+        "link": "https://github.com/Robiin3/projet8",
         "alt": "Image projet de Kasa"
     }
 ]

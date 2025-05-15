@@ -120,16 +120,35 @@ color: rgb(8, 135, 173);
 .card-title {
     text-align: center;
 }
+/* Titres des projets portfolio */
+#portfolio .card-title {
+    color: #333;
+}
+/* Titres des skills */
+#skills .card-title {
+    color: #333;
+}
 .card:hover .skillsIcon {
-    color: #008000;
+    color: #03627a;
 }
 .skillsText:hover {
-    border: 1px solid #008000;
+    border: 1px solid #03627a;
 }
 
 /* portfolio */
 #portfolio p {
     text-align: center;
+}
+
+/* Boutons "Lien" du portfolio */
+#portfolio .btn-success {
+    background-color: #03627a;
+    border-color: #03627a;
+}
+#portfolio .btn-success:hover,
+#portfolio .btn-success:focus {
+    background-color: #024c5e;
+    border-color: #024c5e;
 }
 
 /* contact */
@@ -145,5 +164,20 @@ color: rgb(8, 135, 173);
 .card-img-portfolio {
     width: 100%;
     height: auto;
+}
+
+/* Même hauteur pour les cards portfolio en desktop */
+@media (min-width: 992px) {
+    .portfolioContent.card {
+        height: 420px;
+        display: flex;
+        flex-direction: column;
+    }
+    .portfolioContent .card-body {
+        flex: 1 1 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
 }
 
