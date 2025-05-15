@@ -99,13 +99,15 @@ color: rgb(8, 135, 173);
 
 /* skills */
 .skillsText.card {
-    height: 350px;
-    cursor: pointer;
+    height: 270px;
 }
 .skillsText img {
-    width: 100%;
-    height: 150px;
+    width: 60%;
+    height: 100px;
     object-fit: contain;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 #skills p {
     text-align: center;
@@ -140,7 +142,8 @@ color: rgb(8, 135, 173);
     color: #03627a;
 }
 
-
-
-/* footer */
+.card-img-portfolio {
+    width: 100%;
+    height: auto;
+}
 
