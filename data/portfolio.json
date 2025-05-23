@@ -30,14 +30,14 @@
         "image": "Qwenta.webp",
         "title": "Qwenta",
         "text": "<b>Planification</b> du développement d'un site web. <br> Rédaction de <b>spécifications techniques</b>. <br> <b>Gestion de projet</b> - tableau <b>Kanban</b>. <br> Mise en place d'une veille technologique.",
-        "link": "livrables/Miniature Qwenta.png",
+        "link": "livrables/Miniature Qwenta.webp",
         "alt": "Image projet de Qwenta"
     },
     {
         "image": "SophieBluel.webp",
         "title": "Sophie Bluel",
         "text": "Création d'une <b>page web dynamique</b> pour le site internet d'une architecte d'intérieur en utilisant <b>JavaScript</b> et en communiquant avec une <b>API</b>. <br> Manipulation des éléments du <b>DOM</b>.",
-        "link": "livrables/Miniature Sophie Bluel.png",
+        "link": "livrables/Miniature Sophie Bluel.webp",
         "alt": "Image projet Sophie Bluel"
     },
     {
