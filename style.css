@@ -189,3 +189,19 @@ color: rgb(8, 135, 173);
     }
 }
 
+/* footer */
+footer {
+    background: #f8f9fa;
+    color: #333;
+    font-size: 1rem;
+    margin-top: 2rem;
+    border-top: 1px solid #e5e5e5;
+}
+footer .container {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+footer small {
+    color: #2b2929;
+}
+
