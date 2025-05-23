@@ -1,54 +1,54 @@
 [    {
-    "image": "Testsillustr.png",
+    "image": "Testsillustr.webp",
     "title": "JSE Avocats",
     "text": "Exécution de <b>tests fonctionnels</b> sur un site Wordpress via Docker. <br> Utilisation d'un <b>cahier de recette</b>. <br> Exécution de <b>tests exploratoires</b>. <br> Identification et documentation des anomalies.",
     "link": "livrables/Cahier_de_recette.xlsx",
     "alt": "Image projet JSE Avocats"
     },
     {
-        "image": "EcoBlissBath.png",
+        "image": "EcoBlissBath.webp",
         "title": "EcoBlissBath",
         "text": "<b>Automatisation de tests</b> fonctionnels pour le site web d'une start-up de produits écoresponsables. <br> Rédaction des <b>scripts d'automatisation</b> en <b>JavaScript</b>, avec <b>Cypress</b>. <br> Rédaction d'un <b>bilan de campagne</b des tests automatisés>.",
         "link": "livrables/Rapport-EcoBlissBath.pdf",
         "alt": "Image projet de EcoBlissBath"
     },
     {
-        "image": "Payforge.png",
+        "image": "Payforge.webp",
         "title": "PayForge",
         "text": "Conception d'une <b>stratégie de test</b> pour une application bancaire. <br> Analyse des <b>spécifications fonctionnelles</b>. <br> Rédaction d'un <b>cahier de recette</b>. <br> <b>Planification des tests</b>.",
         "link": "livrables/Stratégie_Test_PayForge.pdf",
         "alt": "Image projet de PayForge"
     },
     {
-        "image": "724-events-couverture.png",
+        "image": "724-events-couverture.webp",
         "title": "724events",
         "text": "Exécution d'une <b>campagne de tests</b> complète sur le site en développement d’une agence d'événementiel. <br> Documentation des bugs dans <b>JIRA</b> via des tickets détaillés pour faciliter leur résolution. <br> Rédaction d'un rapport de <b>bilan de la campagne.</b>",
         "link": "livrables/Bilan_de_campagne_de_tests.pdf",
         "alt": "Image projet 724events"
     },
     {
-        "image": "Qwenta.JPG",
+        "image": "Qwenta.webp",
         "title": "Qwenta",
         "text": "<b>Planification</b> du développement d'un site web. <br> Rédaction de <b>spécifications techniques</b>. <br> <b>Gestion de projet</b> - tableau <b>Kanban</b>. <br> Mise en place d'une veille technologique.",
         "link": "livrables/Miniature Qwenta.png",
         "alt": "Image projet de Qwenta"
     },
     {
-        "image": "SophieBluel.png",
+        "image": "SophieBluel.webp",
         "title": "Sophie Bluel",
         "text": "Création d'une <b>page web dynamique</b> pour le site internet d'une architecte d'intérieur en utilisant <b>JavaScript</b> et en communiquant avec une <b>API</b>. <br> Manipulation des éléments du <b>DOM</b>.",
         "link": "livrables/Miniature Sophie Bluel.png",
         "alt": "Image projet Sophie Bluel"
     },
     {
-        "image": "image1.png",
+        "image": "booki.webp",
         "title": "Booki",
         "text": "Création de la page d'accueil d'une agence de voyage en <b>HTML</b> et <b>CSS</b>. <br> Intégration d'une interface web <b>responsive</b>. <br> Découpage de maquette.",
         "link": "https://robiin3.github.io/projet3/",
         "alt": "Image projet Booki"
     },
     {
-        "image": "image3.png",
+        "image": "kasa.webp",
         "title": "Kasa",
         "text": "Implémentation du front-end d’une application de location de logement. <br> Création de composants dynamiques avec <b>React</b>. Configuration de la navigation avec <b>React Router</b>. <br> Gestion des états avec <b>Hooks</b>.",
         "link": "https://github.com/Robiin3/projet8",
